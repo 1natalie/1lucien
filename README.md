@@ -8,12 +8,8 @@
 <p align="middle">
 <a href="https://codepen.io/l-aim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="l-aim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thelucienleighton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thelucienleighton" height="30" width="40" /></a>
-<a href="https://fb.com/thelucienleighton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thelucienleighton" height="30" width="40" /></a>
 <a href="https://instagram.com/lucienleighton.ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucienleighton.ai" height="30" width="40" /></a>
-<a href="https://dribbble.com/lucienleighton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="lucienleighton" height="30" width="40" /></a>
 <a href="https://www.behance.net/lucien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lucien" height="30" width="40" /></a>
-<a href="https://hashnode.com/@loosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@loosh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@l_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@l_l" height="30" width="40" /></a>
 </p>
 
 <h3 align="middle">Languages and Tools:</h3>
