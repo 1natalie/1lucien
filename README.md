@@ -22,4 +22,5 @@
 👋  📫 Inquiries are to be sent to my Personal Assistant via email only: gianni@lucienleighton.com  
 
 <h3 align="middle">
-<img width="600" alt="luciennatal" src="https://user-images.githubusercontent.com/119469038/209764617-eacaea33-10fc-4e25-9c99-784cbd284287.png">
+<img width="600" alt="luciennatal" src="https://user-images.githubusercontent.com/119469038/209764617-eacaea33-10fc-4e25-9c99-784cbd284287.png"> ![verify](https://user-images.githubusercontent.com/119469038/209765189-3967a96f-51eb-411c-adcc-fb66b298b5ed.png)
+
