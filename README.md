@@ -21,4 +21,5 @@
 <p align="middle">
 👋  📫 Inquiries are to be sent to my Personal Assistant via email only: gianni@lucienleighton.com  
 
-<p align="middle"> <a ![original_e96bc28046bd11c54acd9fd0277fb99d](https://user-images.githubusercontent.com/119469038/209764280-a9f34d08-01c2-4c2c-a4fc-f2d4265917ee.gif)
+<p align="middle"> <a
+                      ![original_e96bc28046bd11c54acd9fd0277fb99d](https://user-images.githubusercontent.com/119469038/209764280-a9f34d08-01c2-4c2c-a4fc-f2d4265917ee.gif)
