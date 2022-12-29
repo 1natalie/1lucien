@@ -9,7 +9,6 @@
 
 <h3 align="middle">Connect with me:</h3>
 <p align="middle">
-<a href="https://codepen.io/l-aim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="l-aim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thelucienleighton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thelucienleighton" height="30" width="40" /></a>
 <a href="https://instagram.com/lucienleighton.ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucienleighton.ai" height="30" width="40" /></a>
 <a href="https://www.behance.net/lucien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lucien" height="30" width="40" /></a>
